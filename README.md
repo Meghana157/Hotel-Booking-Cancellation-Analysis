@@ -37,7 +37,7 @@ City Hotel and Resort Hotel have been facing challenges due to high cancellation
    - City Hotels generally have lower ADR than Resort Hotels, but rates increase during weekends and holidays.
 
 4. **Monthly Reservations**:
-   - August has the highest number of confirmed and cancelled reservations.
+   - August has the highest number of confirmed reservations.
    - January experiences the highest cancellation rate.
 
 5. **Impact of Price on Cancellations**:
