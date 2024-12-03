@@ -20,7 +20,7 @@ City Hotel and Resort Hotel have been facing challenges due to high cancellation
 - How can hotels reduce reservation cancellations?
 - How can this analysis assist hotels in making pricing and promotional decisions?
 
-## Hypotheses
+## Hypothesis
 1. **Higher prices lead to more cancellations.**
 2. **Longer waiting lists correlate with higher cancellation rates.**
 3. **Most clients book via offline travel agents.**
@@ -73,4 +73,4 @@ City Hotel and Resort Hotel have been facing challenges due to high cancellation
 ## Installation
 To run this project locally:
 1. Clone the repository:  
-   git clone https://github.com/your_username/hotel-booking-cancellation-analysis.git
+   git clone https://github.com/Meghana157/hotel-Booking-Cancellation-Analysis.git
